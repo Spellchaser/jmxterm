@@ -1,5 +1,16 @@
-target
 *.log
 .*
 *~
 *.iml
+
+# gradle build artifacts
+bin
+build
+.gradle
+*.jar
+*.class
+gradle
+
+# mvn/gradle build target
+target
+
